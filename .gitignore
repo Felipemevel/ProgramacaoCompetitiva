@@ -1,0 +1,12 @@
+# Pastas de configuração da IDE (CLion/IntelliJ)
+.idea/
+
+# Pasta de build/compilação do CMake
+cmake-build-debug/
+cmake-build-release/
+
+# Arquivos do CMake gerados
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
