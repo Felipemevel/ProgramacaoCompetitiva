@@ -7,4 +7,5 @@ add_executable(ProgramacaoCompetitiva
         A-WeirdAlgorithm/Q1.cpp
         B-Election/Q2.cpp
         C-MissingNumber
-        D-ProblemStatement)
+        D-ProblemStatement
+        E-Repetitions)
