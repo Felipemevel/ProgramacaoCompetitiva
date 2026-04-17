@@ -4,8 +4,8 @@ project(ProgramacaoCompetitiva)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(ProgramacaoCompetitiva
-        A-WeirdAlgorithm/Q1.cpp
-        B-Election/Q2.cpp
-        C-MissingNumber
-        D-ProblemStatement
-        E-Repetitions)
+        Lista01_10-04-26/A-WeirdAlgorithm/Q1.cpp
+        Lista01_10-04-26/B-Election/Q2.cpp
+        Lista01_10-04-26/C-MissingNumber
+        Lista01_10-04-26/D-ProblemStatement
+        Lista01_10-04-26/E-Repetitions)
